@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hello
 
-<!--
-**wokxn/wokxn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a software developer based in Atlanta, USA, with a strong interest in software engineering, hardware development, and web applications.
 
-Here are some ideas to get you started:
+### Skills
+- JavaScript
+- Go
+- C / C++
+- Python
+- PHP
+- C#
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building efficient, scalable systems and working on projects that I find interesting. Most of my ideas end up being built and shared here on GitHub.
+
+Thanks for checking out my profile 👋
